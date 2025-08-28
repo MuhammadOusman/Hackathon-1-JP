@@ -1,0 +1,1 @@
+import{j as e}from"./mui-BJon3m8q.js";import{B as t,C as s,p as o,c as i,d as n,e as l,h as p}from"./chart-BOdAsdoy.js";s.register(o,i,n,l,p);function g({data:a,options:r}){return e.jsx(t,{data:a,options:r})}export{g as default};

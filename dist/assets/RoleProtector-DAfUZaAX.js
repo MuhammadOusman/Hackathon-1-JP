@@ -1,0 +1,1 @@
+import{j as t}from"./mui-BJon3m8q.js";import"./chart-BOdAsdoy.js";import{b as o,O as r}from"./react-8-RJajJm.js";const i=({role:e})=>localStorage.getItem("role")!==e?t.jsx(o,{to:"/login",replace:!0}):t.jsx(r,{});export{i as default};
