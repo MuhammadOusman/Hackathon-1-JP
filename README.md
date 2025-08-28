@@ -8,7 +8,7 @@ Quick login (copy/paste)
 
 - Branch Manager (any one of these)
   - Main Branch: manager@example.com / manager123
-  - East Side: east.manager@example.com / eastpass
+  - East Side: east.manager@example.com / 123
   - West End: west.manager@example.com / westpass
 
 - User (any)
